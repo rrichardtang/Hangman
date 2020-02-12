@@ -1,0 +1,2 @@
+Hangman is very simple. I will think of a random word. I will give you the number of letters in my word indicated by _s. You will then try to guess my word by trying letters one at a time. If the letter you guessed is in my word I will fill in the corresponding blank. If not, you get one strike. You have 6 strikes total. Good luck!
+

@@ -13,17 +13,14 @@ Ensure that Python is at least v3.7.6_1
 Download [homebrew](https://brew.sh/)
 ```
 >>> /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-
 ```
 Use homebrew to either download
 ```
 >>> brew install python3
-
 ```
 or update python
 ```
 >>> brew upgrade python3
-
 ```
 ### Installing
 

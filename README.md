@@ -36,5 +36,5 @@ until finished
 
 ## Author
 
-* **Richard Tang** - 
+* **Richard Tang** 
 

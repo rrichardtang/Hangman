@@ -20,7 +20,7 @@ or update python
 >>> brew upgrade python3
 ```
 
-## How to Play
+### How to Play
 
 Open hangman.py in any python interpretor then enter the following code:
 ```

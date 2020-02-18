@@ -27,7 +27,7 @@ In terminal, navigate to the folder with the hangman.py file:
 >>> cd Hangman/backend/main
 ```
 
-Open hangman.py in any python interpretor then enter the following code:
+Run hangman.py file in terminal:
 ```
 >>> python3 -i hangman.py
 ```

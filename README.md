@@ -22,6 +22,11 @@ or update python
 
 ### How to Play
 
+In terminal, navigate to the folder with the hangman.py file:
+```
+>>> cd Hangman/backend/main
+```
+
 Open hangman.py in any python interpretor then enter the following code:
 ```
 >>> python3 -i hangman.py
